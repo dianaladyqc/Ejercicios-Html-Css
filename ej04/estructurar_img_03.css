@@ -1,0 +1,17 @@
+table {
+    width: 500px;
+    height: 500x;
+    text-align: center;
+}
+
+th {
+    background-color: chocolate;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+td {
+    background-color: rgb(190, 190, 87);
+    font-weight: bold;
+    font-size: 20px;
+}

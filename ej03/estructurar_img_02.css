@@ -1,0 +1,16 @@
+table {
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: burlywood;
+    color: indigo;
+    font-size: 24px;
+}
+
+td {
+    background-color: azure;
+    color: rgb(80, 74, 74);
+    font-size: 20px;
+}

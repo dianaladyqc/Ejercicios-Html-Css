@@ -1,0 +1,21 @@
+div {
+    background-color: beige;
+    padding: 1px 15 px;
+    font-size: 24px;
+}
+
+.encabezado{
+    text-align: center;
+}
+
+.opera{
+    background-color: yellowgreen;
+    padding: 1px 15 px;
+    font-size: 24px;
+}
+
+.clasica{
+    background-color: rosybrown;
+    padding: 1px 15 px;
+    font-size: 24px;
+}

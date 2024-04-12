@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background-color: grey;
+}
+
+div {
+    background-color: slategray;
+    margin: 0px 300px;
+}
+
+#titulo{
+    text-align: center;
+    color:  white;
+    font-size: 48px;
+}
+
+.parrafo1{
+    text-align: justify;
+    padding: 1px 15px 10px;
+    font-size: 24px;
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estructurar_img_03.css">
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <!--rowspan:  una celda abarca la cantidad de filas que yo le asigno -->
+            <!-- colspan: una celda abarca la cantidad de columnas que se le indique -->
+            <th rowspan="2" colspan="2"></th>
+            <th rowspan="2" colspan="1">Columna 1</th>
+            <th colspan="2">Columna 2</th>
+        </tr>
+        <tr>
+            <td>Columna 2a</td>
+            <td>Columna 2b</td> 
+        </tr>
+        <tr>
+            <th rowspan="2">Fila 1</th>
+            <th>Fila 1a</th>
+            <td>123</td>
+            <td>456</td>
+            <td>789</td>
+        </tr>
+        <tr>
+            <th>Fila 1b</th>
+            <td>123</td>
+            <td>456</td>
+            <td>789</td>
+        </tr>
+        <tr>
+            <th colspan="2">Fila 2</th>
+            <td>123</td>
+            <td>456</td>
+            <td>789</td>
+        </tr>
+    </table>
+    
+</body>
+</html>
